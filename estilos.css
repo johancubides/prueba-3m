@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+    background-image: url(https://media.discordapp.net/attachments/983049867435851836/1014810128224112651/henllokity_rueba.png);
+    width: 100vw;
+    height: 100vw;
+    text-align: center;
+
+}   
+
+p{
+    font-family: fantasy;
+    padding: 1%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+}
+
+#noBtn{
+    position: absolute;
+}
